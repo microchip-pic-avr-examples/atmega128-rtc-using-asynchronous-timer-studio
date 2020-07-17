@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>AVR134Realtimeclock</AssemblyName>
-    <Name>AVR134Realtimeclock</Name>
-    <RootNamespace>AVR134Realtimeclock</RootNamespace>
+    <AssemblyName>atmega128-rtc-using-asynchronous-timer-studio</AssemblyName>
+    <Name>atmega128-rtc-using-asynchronous-timer-studio</Name>
+    <RootNamespace>atmega128-rtc-using-asynchronous-timer-studio</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
